@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+#map {
+  height: 70vh;
+}
+
+.container {
+  background: #000;
+  height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
